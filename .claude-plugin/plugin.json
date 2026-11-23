@@ -1,0 +1,10 @@
+{
+  "name": "daytona",
+  "description": "Creates and manages isolated cloud sandboxes (secure code execution environments with dedicated runtimes) on the Daytona platform",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daytona"
+  },
+  "repository": "https://github.com/daytona/skills",
+  "keywords": ["daytona", "skill", "sandbox"]
+}
